@@ -1,1 +1,1 @@
-# solana-contract-bot
+# solana-bot-jito
